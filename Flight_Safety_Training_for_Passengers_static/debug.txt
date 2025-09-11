@@ -1,0 +1,6 @@
+Date Built: 2025-09-11T02:33:13.482Z
+    
+VERCEL_GIT_COMMIT_SHA: 1009e08a5ab0de0f27d8e6560f2172720438fe4f
+VERCEL_GIT_COMMIT_MESSAGE: Merge pull request #1582 from MindsmithAI/fetch-language-strings
+
+Fetch language strings on language change
