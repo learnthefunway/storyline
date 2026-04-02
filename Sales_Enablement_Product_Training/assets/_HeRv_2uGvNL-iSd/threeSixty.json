@@ -1,0 +1,32 @@
+{
+  "version": "3.111.36326.0",
+  "course_id": "6Ch1Bz34eMb",
+  "title": "8PMDC_M0_Learning Outcomes",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6TMuO9i6dLu",
+      "title": "Untitled Slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6X92P7q9SBB",
+      "title": "Untitled Slide",
+      "scene_index": "1.2"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1386,
+    "height": 839
+  },
+  "stage": {
+    "width": 1366,
+    "height": 768
+  }
+}
